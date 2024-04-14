@@ -1,5 +1,8 @@
-# Amazon Prime Video Dashboard Analysis
+# Amazon Prime Video Dashboard Analysis powerBI
+
+## Dashboard Image
 ![Amazon Prime Video Dashboard](poerBIFinal.png)
+
 
 
 ## Description
@@ -38,7 +41,6 @@ This project aims to analyze the content available on Amazon Prime Video using a
 ## Live Dashboard
 You can access the live dashboard [here](https://app.powerbi.com/groups/me/reports/76161b56-42a3-4b43-a670-eff9c12981a2/ReportSection?experience=power-bi).
 
-## Dashboard Image
 ![Amazon Prime Video Dashboard](poerBIFinal.png)
 
 ## License
