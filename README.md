@@ -1,4 +1,6 @@
 # Amazon Prime Video Dashboard Analysis
+![Amazon Prime Video Dashboard](poerBIFinal.png)
+
 
 ## Description
 This project aims to analyze the content available on Amazon Prime Video using a Power BI dashboard. The dashboard provides visualizations showcasing various aspects of the content library, including distribution by country, movies vs TV shows, release years, ratings, and genres.
@@ -37,7 +39,7 @@ This project aims to analyze the content available on Amazon Prime Video using a
 You can access the live dashboard [here](https://app.powerbi.com/groups/me/reports/76161b56-42a3-4b43-a670-eff9c12981a2/ReportSection?experience=power-bi).
 
 ## Dashboard Image
-![Amazon Prime Video Dashboard](poerBiFinal.png)
+![Amazon Prime Video Dashboard](poerBIFinal.png)
 
 ## License
 This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
